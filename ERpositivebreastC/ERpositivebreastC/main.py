@@ -696,7 +696,7 @@ st.title(get_text("title"))
 st.caption(get_text("subtitle"))
 
 # Enhanced disclaimer
-st.error("⚠️ **Medical Disclaimer**: This application simulates ER+ breast cancer risk assessment for educational purposes only. Results are not clinically validated. Always consult healthcare professionals for medical advice, diagnosis, and treatment.")
+st.error("⚠️ **Medical Disclaimer**: This application by RJ P. simulates ER+ breast cancer risk assessment for educational purposes only. Results are not clinically validated. Always consult healthcare professionals for medical advice, diagnosis, and treatment.")
 
 if page == get_text("home"):
     st.header(get_text("welcome"))
