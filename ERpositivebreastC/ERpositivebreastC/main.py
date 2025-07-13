@@ -39,7 +39,7 @@ st.set_page_config(
 # Language translations
 LANGUAGES = {
     "English": {
-        "title": "ER+ Breast Cancer Risk Monitoring & Support AI",
+        "title": "ER+ Breast Cancer Risk Monitoring & AI Support",
         "subtitle": "AI-Powered Multi-Factor Risk Assessment for Estrogen Receptor Positive Breast Cancer",
         "home": "Home",
         "analyzer": "Multi-Image Analyzer",
