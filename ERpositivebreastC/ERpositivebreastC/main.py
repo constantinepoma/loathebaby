@@ -40,7 +40,7 @@ st.set_page_config(
 LANGUAGES = {
     "English": {
         "title": "ER+ Breast Cancer Risk Monitoring & AI Support",
-        "subtitle": "AI-Powered Multi-Factor Risk Assessment for Estrogen Receptor Positive Breast Cancer",
+        "subtitle": "AI-Powered Multi-Factor Risk Assessment for Estrogen Receptor Positive Breast (ER+) Cancer",
         "home": "Home",
         "analyzer": "Multi-Image Analyzer",
         "tracker": "Progress Tracker",
